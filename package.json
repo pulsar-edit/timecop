@@ -1,9 +1,9 @@
 {
   "name": "timecop",
   "version": "0.36.2",
-  "description": "Displays information about where time is spent while Atom loads.",
+  "description": "Displays information about where time is spent while Pulsar loads.",
   "main": "./lib/main",
-  "repository": "https://github.com/atom/timecop",
+  "repository": "https://github.com/pulsar-edit/timecop",
   "license": "MIT",
   "engines": {
     "atom": "*"
