@@ -1,3 +1,5 @@
+# This repo is now archived under Pulsar-Edit as it is Bundled into the core editor [#424](https://github.com/pulsar-edit/pulsar/pull/424)
+
 # Timecop package
 
 Displays information about where time is spent while Pulsar loads.
